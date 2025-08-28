@@ -73,8 +73,9 @@ task3_chatbot.py   # Main chatbot script
    ```
 
 ## 📷 Example Output
+<img width="1920" height="1080" alt="Screenshot 2025-08-28 013344" src="https://github.com/user-attachments/assets/e8898efa-a7f6-4437-bd66-a8392716b8fa" />
 
-![Chatbot Running](Screenshot%202025-08-28%20013344.png)
+
 
 ## 📌 Future Improvements
 
